@@ -1,0 +1,4 @@
+"""
+Airflow plugins directory
+"""
+
